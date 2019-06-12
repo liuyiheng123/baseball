@@ -1,4 +1,15 @@
 {
-ballName:"1",
-ballImg:"http://baidu.com"
+ "caNumber": "9937060000786056",
+ "terminalSpecCode": "MasterSpecification",
+ "serialNumber":"0",
+ "duration": "12",
+ "goodsPrice": "60.0",
+ "goodsImgUrl": "UNKNOW",
+ "strategyCode": "YT_V_1_68",
+ "goodsID": "YT_V_1",
+ "isVip": false,
+ "type": "0",
+ "goodsName": "赠送体验",
+ "goodsDes": "题库天天学送精品体验",
+ "welcome" : "感谢您使用掌上建筑经济题库天天学，欢迎您加入我们的大家庭，您的认可是我们最大的动力，我们一定会做到最好，祝愿你学有所成"
 }
