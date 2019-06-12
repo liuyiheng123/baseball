@@ -8,8 +8,6 @@
  "strategyCode": "YT_V_1_68",
  "goodsID": "YT_V_1",
  "isVip": true,
- "type": "1",
- "goodsName": "赠送体验",
- "goodsDes": "题库天天学送精品体验",
- "welcome" : "感谢您使用掌上建筑经济题库天天学，欢迎您加入我们的大家庭，您的认可是我们最大的动力，我们一定会做到最好，祝愿你学有所成"
+ "type": "0",
+
 }
